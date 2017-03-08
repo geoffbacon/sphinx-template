@@ -13,6 +13,9 @@ Welcome to my_package's documentation!
    overview
    awesomepage
    auto_examples/index
+   
+Header 2
+--------
 
 
 
