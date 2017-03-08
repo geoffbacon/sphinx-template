@@ -9,6 +9,7 @@ script:
     - cd docs
     - make html
     - cd ..
+    - echo "Hello, world!"
 
     - set -e
 
